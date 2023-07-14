@@ -54,7 +54,7 @@ public class CastingPractice1 {
 		// 양옆에 + 로 문자열 연결해주기
 		
 		
-		System.out.println("git");
+		System.out.println("연습");
 		
 	    
 
